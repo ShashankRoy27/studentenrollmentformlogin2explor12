@@ -1,8 +1,6 @@
 # studentenrollmentformlogin2explor12
 Repository that contains the task assigned by login2explore.com
 
-Certainly! Below is a sample README.md file for your GitHub project:
-
 ---
 
 # Student Enrollment Form Using JPDB
